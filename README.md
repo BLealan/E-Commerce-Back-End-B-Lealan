@@ -9,3 +9,4 @@ Running `npm install` within this applications terminal will ensure that the nec
 ## Usage
 
 ## Sources
+- https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
